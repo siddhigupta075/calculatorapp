@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="operatorColor">#C4B5FD</color>
+    <color name="numberColor">#424242</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#C4B5FD</color>
+    <color name="equalColor">#4ADE80</color>
+    <color name="clearColor">#F9A8D4</color>
+    <color name="appBg">#0B0F14</color>
+
+    <color name="displayBg">#0E1621</color>
+    <color name="displayText">#F8FAFC</color>
+
+    <color name="numberBtn">#1F2937</color>
+    <color name="numberBtnPressed">#374151</color>
+
+    <color name="operatorBtn">#4CC9F0</color>
+    <color name="operatorBtnPressed">#38BDF8</color>
+
+    <color name="clearBtn">#EF4444</color>
+    <color name="equalBtn">#86EFAC</color>
+
+    <color name="btnTextDark">#0B0F14</color>
+    <color name="btnTextLight">#F8FAFC</color>
+
+</resources>
